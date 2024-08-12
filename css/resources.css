@@ -17,8 +17,8 @@ header h1 {
     margin: 0;
 }
 
-.global-awareness-img{
-    height: 500px;
-    width: 700px;
-    
+.global-awareness-img-container{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
 }
