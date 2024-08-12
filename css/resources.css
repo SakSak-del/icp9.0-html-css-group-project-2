@@ -35,3 +35,8 @@ header h1 {
     width: 300px;
     text-align: center;
 }
+
+.resource-item h3 {
+    margin: 0 0 10px;
+}
+
