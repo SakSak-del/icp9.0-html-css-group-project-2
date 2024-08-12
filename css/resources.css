@@ -54,3 +54,7 @@ header h1 {
     border-radius: 5px;
     transition: background 0.3s;
 }
+
+.resource-item a:hover {
+    background: #4cae4c;
+}
