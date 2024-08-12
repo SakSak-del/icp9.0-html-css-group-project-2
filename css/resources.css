@@ -25,8 +25,8 @@ header h1 {
 }
 
 .global-awareness-img {
-    height: 500px;
-    width: 1000px;
+    max-width: 100%;
+    height: auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow effect */
     border-radius: 10px; /* Optional: Add rounded corners */
 }
