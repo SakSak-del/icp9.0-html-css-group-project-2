@@ -17,8 +17,16 @@ header h1 {
     margin: 0;
 }
 
-.global-awareness-img-container{
-    display: flex; 
-    justify-content: center; 
+.global-awareness-img-container {
+    display: flex;
+    justify-content: center;
     align-items: center;
+    padding: 20px;
+}
+
+.global-awareness-img {
+    height: 500px;
+    width: 1000px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow effect */
+    border-radius: 10px; /* Optional: Add rounded corners */
 }
