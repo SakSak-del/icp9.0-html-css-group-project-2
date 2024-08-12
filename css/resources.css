@@ -4,5 +4,16 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f2f7f5;
-    color: #333;
+    /* color: #333; */
+}
+
+header {
+    background:  #f2f7f5;
+    color: #00473e;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
 }
