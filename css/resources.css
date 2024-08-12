@@ -17,3 +17,10 @@ header {
 header h1 {
     margin: 0;
 }
+
+.resource-section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
