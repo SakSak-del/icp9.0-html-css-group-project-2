@@ -40,9 +40,7 @@ p {
     margin: 20px auto;
     text-align: justify;
     padding: 10px 20px;
-    background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow for the paragraph background */
     line-height: 1.8;
     font-size: 1.1em;
 }
