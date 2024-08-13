@@ -82,9 +82,19 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    background-color: #f2f7f5;
   }
 
 .footer-section {
     display: flex;
     flex-direction: column;
+  }
+
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+
+  .footer-links li {
+    margin-bottom: 5px;
   }
