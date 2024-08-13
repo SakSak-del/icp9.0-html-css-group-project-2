@@ -48,7 +48,9 @@ p {
 }
 
 .Resources-by-action-area {
-    color: #00473e;
+    /* color: #00473e; */
+    background-color: #00332c;
+    color: #f2f7f5;
     text-align: center;
     /* background-color: rgb(51, 48, 48); */
     padding: 45px; /* add some padding around the cards */
@@ -62,7 +64,7 @@ p {
     margin: 20px; /* add space between boxes */
     padding: 10px; /* add some padding inside the card */
     border-radius: 5px; /* add a subtle rounded corner */
-    height: 400px;
+    height: 840px;
     width: 400px;
   }
 
