@@ -64,7 +64,7 @@ p {
     margin: 20px; /* add space between boxes */
     padding: 10px; /* add some padding inside the card */
     border-radius: 5px; /* add a subtle rounded corner */
-    height: 840px;
+    height: auto;
     width: 400px;
   }
 
