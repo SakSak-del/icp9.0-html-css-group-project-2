@@ -50,3 +50,12 @@ p {
     color: #00473e;
     text-align: center;
 }
+
+.card {
+    width: 200px;
+    height: 100px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    display: inline-block; /* make the boxes display horizontally */
+    margin-right: 20px; /* add some space between boxes */
+  }
