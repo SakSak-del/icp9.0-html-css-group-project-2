@@ -1,6 +1,6 @@
-.body{background-color: #f2f7f5; margin: 0px; padding: 0px;}
+.body{background-color: #f2f7f5; margin: 0px; padding: 0px; }
 
-.headerparent{ display: flex; flex-wrap: wrap; flex-direction: row; }
+.headerparent{ display: flex; flex-wrap: wrap; flex-direction: row;}
 
 .logo{width: 150px;}
 
@@ -10,3 +10,12 @@
 
 .vr{ height: 70px; margin-left: 30px;}
 
+.navbar{ display: flex; flex-wrap: wrap; flex-direction: row; align-items: center; }
+
+.homepage{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: #00473e;}
+
+.hr{height: 25px;}
+
+.one{padding-left: 50px;}
+
+.two{ padding-right: 30px;}
