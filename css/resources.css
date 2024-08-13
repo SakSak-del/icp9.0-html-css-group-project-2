@@ -89,6 +89,8 @@ footer {
 .footer-section {
     display: flex;
     flex-direction: column;
+    margin-left: 30px;
+    margin-right: 30px;
   }
 
   .footer-links {
@@ -96,10 +98,10 @@ footer {
     padding: 0;
   }
 
-  .footer-links li {
-    margin-bottom: 5px;
-  }
 
-  h3{
+h3{
     color: #00473e;
+    font-family: "Luxurious Roman", serif;
+    font-weight: 400;
+    font-style: normal;
   }
