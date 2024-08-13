@@ -77,3 +77,14 @@ p {
     font-family: "Sedan", serif;
   font-size: 1.3rem;
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+
+  .footer-section {
+    display: flex;
+    flex-direction: column;
+  }
