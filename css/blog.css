@@ -1,0 +1,12 @@
+.body{background-color: #f2f7f5; margin: 0px; padding: 0px;}
+
+.headerparent{ display: flex; flex-wrap: wrap; flex-direction: row; }
+
+.logo{width: 150px;}
+
+.natgeologo{ height: 90px; padding-top: 43px; }
+
+.discoverylogo{ height: 70px; padding-top: 53px;}
+
+.vr{ height: 70px; margin-left: 30px;}
+
