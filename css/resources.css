@@ -84,7 +84,7 @@ footer {
     padding: 20px;
   }
 
-  .footer-section {
+.footer-section {
     display: flex;
     flex-direction: column;
   }
