@@ -71,7 +71,9 @@ p {
     width: 250px;
 }
 
-p{
+.Resources-by-action-para{
     text-align: center;
     color: #475d5b;
+    font-family: "Sedan", serif;
+  font-size: 1.3rem;
 }
