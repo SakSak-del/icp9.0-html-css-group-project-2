@@ -46,16 +46,24 @@ p {
     color: #475d5b;
 }
 
-.Resources-by-action-area{
+.Resources-by-action-area {
     color: #00473e;
     text-align: center;
-}
+    /* background-color: rgb(51, 48, 48); */
+    padding: 20px; /* add some padding around the cards */
+  }
 
 .card {
-    width: 200px;
-    height: 100px;
-    background-color: #f0f0f0;
-    border: 1px solid #ddd;
+    background-color: #f2f7f5;
+    border: 1px solid #ccc; /* simple border */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* simple shadow */
     display: inline-block; /* make the boxes display horizontally */
-    margin-right: 20px; /* add some space between boxes */
+    margin: 20px; /* add space between boxes */
+    padding: 10px; /* add some padding inside the card */
+    border-radius: 5px; /* add a subtle rounded corner */
   }
+
+.Resources-by-action-img{
+    height: 250px;
+    width: 250px;
+}
