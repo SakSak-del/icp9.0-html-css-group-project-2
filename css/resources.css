@@ -48,11 +48,9 @@ p {
 }
 
 .Resources-by-action-area {
-    /* color: #00473e; */
     background-color: #00332c;
     color: #f2f7f5;
     text-align: center;
-    /* background-color: rgb(51, 48, 48); */
     padding: 45px; /* add some padding around the cards */
   }
 
@@ -75,7 +73,7 @@ p {
 
 .Resources-by-action-para{
     text-align: center;
-    color: #475d5b;
+    color: #d8779a;
     font-family: "Sedan", serif;
   font-size: 1.3rem;
 }
