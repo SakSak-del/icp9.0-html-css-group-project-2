@@ -70,3 +70,17 @@
 .categoryheadlineparent{ background-color: #00473e; display: flex; flex-direction: row; flex-wrap: wrap; }
 
 .categoryheadline{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  color: #f2f7f5; padding-left: 450px; padding-top: 10px; padding-bottom: 10px;}
+
+.categorycontainer{ display: flex; justify-content: space-evenly;}
+
+.climatechange{width: 200px; height: 160px; display: flex; flex-direction: column;  border: solid 2px #faae2b;}
+
+.categoryimage{ width: 200px;border-bottom: solid 2px #faae2b;}
+
+.categorytext{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; text-align: center; margin-top: 5px; color:#faae2b;}
+
+.anc{ text-decoration: none;}
+
+.climatechange:hover{ border:#00332c 2px solid;}
+
+.categorytext:hover{ color:#00332c ;}
