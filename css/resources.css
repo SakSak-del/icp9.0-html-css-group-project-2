@@ -79,6 +79,18 @@ p {
   font-size: 1.3rem;
 }
 
+/* resources styling */
+.resources{
+  background-color: rgb(83, 81, 81);
+}
+
+.resources-heading{
+  color: #00473e;
+    padding: 20px;
+    text-align: center;
+}
+
+/* footer styling */
 footer {
     display: flex;
     justify-content: space-between;
