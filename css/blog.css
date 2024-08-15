@@ -98,3 +98,7 @@
 .mailbox{padding-bottom: 15px; border: solid 1px grey; padding-top: 15px; padding-left: 10px; font-size: large; color: grey; margin-top: 10px;}
 .subscribebtn{padding-bottom: 15px; border: solid 1px grey; padding-top: 15px; margin-top: 20px; width: 110px; text-align: center;}
 .subscribebtn:hover{background-color: #faae2b; cursor: pointer;}
+
+.masterparent{margin-top: -80px;}
+.master{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: xx-large; color: #f2f7f5; padding-left: 40px;}
+.master:hover{ color: #00332c;} 
