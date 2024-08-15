@@ -80,28 +80,36 @@ p {
 }
 
 /* resources styling */
-.resources{
-  background-color: rgb(83, 81, 81);
+.resources {
+  background-color: #00332c; /* changed to a darker blue background */
+  padding: 45px; /* added padding to create space between cards */
 }
 
-.resources-heading{
-  color: #00473e;
-    padding: 20px;
-    text-align: center;
+.resources-heading {
+  color: #f2f7f5; /* changed text color to white */
+  padding: 20px;
+  text-align: center;
 }
 
 .resources-card {
   background-color: #f2f7f5;
-  border: 1px solid #ccc; /* simple border */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* simple shadow */
-  display: inline-block; /* make the boxes display horizontally */
-  margin: 20px; /* add space between boxes */
-  padding: 10px; /* add some padding inside the card */
-  border-radius: 5px; /* add a subtle rounded corner */
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  margin: 20px; /* increased margin to create more space between cards */
+  padding: 10px;
+  border-radius: 5px;
   height: auto;
   width: 400px;
+  text-align: center; /* added to center the image and text */
 }
 
+.Resources-card-img {
+  height: 250px;
+  width: 250px;
+  margin: 20px auto; /* added to center the image */
+  display: block; /* added to center the image */
+}
 /* footer styling */
 footer {
     display: flex;
