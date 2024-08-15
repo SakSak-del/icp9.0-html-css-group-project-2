@@ -90,6 +90,18 @@ p {
     text-align: center;
 }
 
+.resources-card {
+  background-color: #f2f7f5;
+  border: 1px solid #ccc; /* simple border */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* simple shadow */
+  display: inline-block; /* make the boxes display horizontally */
+  margin: 20px; /* add space between boxes */
+  padding: 10px; /* add some padding inside the card */
+  border-radius: 5px; /* add a subtle rounded corner */
+  height: auto;
+  width: 400px;
+}
+
 /* footer styling */
 footer {
     display: flex;
