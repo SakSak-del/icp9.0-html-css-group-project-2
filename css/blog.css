@@ -106,6 +106,12 @@
 .followparent{background-color: #00473e; display: flex; flex-direction: row; flex-wrap: wrap; }
 .follow{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  color: #f2f7f5; padding-left: 550px; padding-top: 10px; padding-bottom: 10px;}
 
-.followcontainer{background-color: pink; flex-wrap: wrap; flex-direction: row; display: flex; justify-content: space-around;}
+.followcontainer{ flex-wrap: wrap; flex-direction: row; display: flex; justify-content: space-around;}
 .followimages{width: 50px; cursor: pointer;}
 .followimages:hover{margin-top: -3px;}
+
+.footerparent{background-color:#00332c; display: flex; flex-direction: row; flex-wrap: wrap; height: 40px; }
+.footer{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: #f2f7f5; padding-left: 395px; padding-top: 10px; cursor: pointer;}
+
+
+
