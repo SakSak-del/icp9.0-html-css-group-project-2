@@ -110,6 +110,11 @@ p {
   margin: 20px auto; /* added to center the image */
   display: block; /* added to center the image */
 }
+
+.resources-para{
+  text-align: center;
+}
+
 /* footer styling */
 footer {
     display: flex;
