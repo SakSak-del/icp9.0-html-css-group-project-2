@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Indie+Flower&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lakki+Reddy&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mukta:wght@200;300;400;500;600;700;800&family=Nanum+Gothic&family=Nanum+Myeongjo&family=Noto+Serif+Khitan+Small+Script&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Sedan:ital@0;1&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Indie+Flower&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lakki+Reddy&family=Luxurious+Roman&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mukta:wght@200;300;400;500;600;700;800&family=Nanum+Gothic&family=Nanum+Myeongjo&family=Noto+Serif+Khitan+Small+Script&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Sedan:ital@0;1&family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Varela+Round&display=swap');
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f7f5;
+}
+
+header {
+    background:  #f2f7f5;
+    color: #00473e;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header h2{
+    font-size: 2.5rem;
+}
+
+.global-awareness-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.global-awareness-img {
+    width: 100%;
+    height: 700px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow effect */
+    border-radius: 10px; /* Optional: Add rounded corners */
+}
+
+p {
+    width: 80%;
+    margin: 20px auto;
+    text-align: justify;
+    padding: 10px 20px;
+    border-radius: 8px;
+    line-height: 1.8;
+    font-size: 1.3em;
+    color: #475d5b;
+}
+
+.Resources-by-action-area {
+    background-color: #00332c;
+    color: #f2f7f5;
+    text-align: center;
+    padding: 45px; /* add some padding around the cards */
+  }
+
+.card {
+    background-color: #f2f7f5;
+    border: 1px solid #ccc; /* simple border */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* simple shadow */
+    display: inline-block; /* make the boxes display horizontally */
+    margin: 20px; /* add space between boxes */
+    padding: 10px; /* add some padding inside the card */
+    border-radius: 5px; /* add a subtle rounded corner */
+    height: auto;
+    width: 400px;
+  }
+
+.Resources-by-action-img{
+    height: 250px;
+    width: 250px;
+}
+
+.Resources-by-action-para{
+    text-align: center;
+    color: #d8779a;
+    font-family: "Sedan", serif;
+  font-size: 1.3rem;
+}
+
+/* resources styling */
+.resources {
+  background-color: #00332c; /* changed to a darker blue background */
+  padding: 45px; /* added padding to create space between cards */
+}
+
+.resources-heading {
+  color: #f2f7f5; /* changed text color to white */
+  padding: 20px;
+  text-align: center;
+}
+
+.resources-card {
+  background-color: #f2f7f5;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  margin: 20px; /* increased margin to create more space between cards */
+  padding: 10px;
+  border-radius: 5px;
+  height: auto;
+  width: 400px;
+  text-align: center; /* added to center the image and text */
+}
+
+.Resources-card-img {
+  height: 250px;
+  width: 250px;
+  margin: 20px auto; /* added to center the image */
+  display: block; /* added to center the image */
+}
+
+.resources-para{
+  text-align: center;
+  color:#00473e;
+}
+
+/* footer styling */
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #f2f7f5;
+  }
+
+.footer-section {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+
+  .footer-links {
+    list-style: none;
+    padding: 0;
+  }
+
+
+h3{
+    color: #00473e;
+    font-family: "Luxurious Roman", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
