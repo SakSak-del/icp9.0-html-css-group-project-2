@@ -54,3 +54,8 @@ h1{
      padding: 20px;
      
 }
+.box{
+     display: flex;
+     border: 5px;
+     background-color: rgb(152, 198, 238);
+}
