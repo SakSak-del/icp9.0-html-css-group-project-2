@@ -59,3 +59,10 @@ h1{
      border: 5px;
      background-color: rgb(152, 198, 238);
 }
+.container2{
+     border-radius: 5px;
+     height:200px;
+     width:230px;
+     margin: 20px;
+
+}
