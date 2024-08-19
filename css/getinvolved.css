@@ -47,5 +47,10 @@ h1{
 .containerimg{
      display: flex;
      border: 5px;
-     background-color: aliceblue;
+     background-color: rgb(152, 198, 238);
+}
+.text1{
+     font-size:20px;
+     padding: 20px;
+     
 }
