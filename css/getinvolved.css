@@ -30,10 +30,22 @@ h1{
 }
 .btn{
      background-color: #faae2b;
+     
 }
 .border1{
      border:solid;
      border-radius: 5px 5px 5px 5px;
      width:600px;
      text-align: center;
+}
+.container1{
+     border-radius: 5px;
+     height:200px;
+     width:200px;
+     margin: 20px;
+}
+.containerimg{
+     display: flex;
+     border: 5px;
+     background-color: aliceblue;
 }
