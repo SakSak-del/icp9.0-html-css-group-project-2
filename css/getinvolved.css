@@ -31,3 +31,9 @@ h1{
 .btn{
      background-color: #faae2b;
 }
+.border1{
+     border:solid;
+     border-radius: 5px 5px 5px 5px;
+     width:600px;
+     text-align: center;
+}
