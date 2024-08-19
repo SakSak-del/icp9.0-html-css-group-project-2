@@ -66,3 +66,8 @@ h1{
      margin: 20px;
 
 }
+.cam{
+     border-radius: 5px;
+     height:500px;
+     width:700px;
+}
