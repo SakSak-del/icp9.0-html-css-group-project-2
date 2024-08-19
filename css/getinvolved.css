@@ -1,6 +1,30 @@
 
 .image{
      border-radius: 5px;
-     height:250px;
-     width:250px;
+     height:400px;
+     width:660px;
+}
+
+.text{
+     background-color:aquamarine;
+     padding: 20px;
+     margin: 0;
+     font-size: 25px;
+}
+.name{
+     margin-left: 40px;
+}
+
+.border{
+     border:solid;
+     border-radius: 5px 5px 5px 5px;
+     width:500px;
+     text-align: center;
+}
+.btn{
+     background-color: #faae2b;
+}
+h1{
+     text-align: center;
+     
 }
