@@ -1,0 +1,68 @@
+body{
+     font-family: Arial, sans-serif;
+     margin:0;
+     padding: 0;
+     line-height:1.6;
+     color:;
+}
+header{
+     background-color: #f2f7f2
+     color:;
+     padding:10px 0;
+     text-align:center;
+
+}
+nav ul{
+     display: inline;
+     margin:0 15px;
+}
+nav ul li{
+     display:inline;
+     margin:0 15px;
+
+}
+nav ul li a {
+     color:#f2f7f2
+     text-decoration:none;
+     font-weight:bold;
+
+
+}
+.section{
+     padding:20px;
+     margin:20px;
+     border-radius: 5px;
+}
+#volunteer{
+     background-color: ;
+
+}
+#donate{
+     background-color: ;
+     
+}
+#camping{
+     background-color: ;
+     
+}
+button{
+     background-color: ;
+     color:#f2f7f2;
+     padding:10px 15px;
+     border: none;
+     border-radius: 5px;
+     cursor:pointer;
+}
+button:hover{
+     background-color: ;
+}
+footer{
+     text-align: center;
+     padding: 10px;
+     background-color: ;
+     color: ;
+     position: fixed;
+     width:100%;
+bottom:0
+}
+    
