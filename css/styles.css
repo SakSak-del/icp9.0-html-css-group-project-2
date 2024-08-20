@@ -39,3 +39,7 @@ header nav a button {
     transition: background-color 0.3s, color 0.3s;
 
 }
+header nav a button:hover {
+    background-color: #475d5b; 
+    color:#f2f7f5 ; 
+}
