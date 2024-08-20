@@ -198,3 +198,59 @@ section h2 {
             margin: 10px auto;
             border-radius:10%;
 }
+
+footer {
+    background: #00473e;
+    color: #fffffe;
+    text-align: center;
+    padding: 40px 0;
+    margin-top: 40px;
+    clear: both;
+    box-shadow: 0 -4px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer .social-media a {
+    margin: 0 10px;
+    color: #fffffe;
+    text-decoration: none;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+footer .social-media a:hover {
+    color: #475d5b;
+}
+
+footer .newsletter input[type="email"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 70%;
+    margin-right: 10px;
+}
+
+footer .newsletter button {
+    padding: 10px 20px;
+    border: none;
+    background: #d8779a;
+    color: ;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+footer .newsletter button:hover {
+    background: #f2f7f5;
+}
+
+footer .quick-links a {
+    margin: 0 10px;
+    color: #faae2b;
+    text-decoration: none;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+footer .quick-links a:hover {
+    color: #d8779a ;
+}
