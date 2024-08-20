@@ -47,5 +47,27 @@ h1{
 .containerimg{
      display: flex;
      border: 5px;
-     background-color: aliceblue;
+     background-color: rgb(152, 198, 238);
+}
+.text1{
+     font-size:20px;
+     padding: 20px;
+     
+}
+.box{
+     display: flex;
+     border: 5px;
+     background-color: rgb(152, 198, 238);
+}
+.container2{
+     border-radius: 5px;
+     height:200px;
+     width:230px;
+     margin: 20px;
+
+}
+.cam{
+     border-radius: 5px;
+     height:500px;
+     width:700px;
 }
