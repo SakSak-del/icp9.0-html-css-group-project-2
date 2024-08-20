@@ -13,3 +13,8 @@ header {
     border-bottom: #A6B1E1 3px solid; 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
