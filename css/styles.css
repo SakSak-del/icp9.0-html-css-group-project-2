@@ -6,3 +6,10 @@ body {
     color: #00473e; 
     background-color: #f2f7f5; 
 }
+header {
+    background: #f2f7f5; 
+    color: #00473e; 
+    padding: 10px 20px;
+    border-bottom: #A6B1E1 3px solid; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
