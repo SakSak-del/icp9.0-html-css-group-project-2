@@ -25,7 +25,7 @@ header .logo img {
 }
 header nav {
     display: flex;
-    gap: 10px;
+    gap: ;
 }
 
 header nav a button {
@@ -89,7 +89,7 @@ header .search-bar img {
     color: #475d5b;
     height: 400px;
     text-align: center;
-    padding-top: 150px;
+    
     position: relative;
 }
 
