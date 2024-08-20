@@ -30,7 +30,7 @@
 
 .partnersparent{ background-color: #00473e; padding:10px 10px; flex-wrap: wrap; display: flex; flex-direction: row; }
 
-.searchbar{ margin-left: 250px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  font-size: medium ; border: solid 1px grey;  width: 170px; height: 35px; padding-left: 10px;}
+.searchbar{ margin-left: 290px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  font-size: medium ; border: solid 1px grey;  width: 170px; height: 35px; padding-left: 10px;}
 
 .search{height: 25px;margin-left: -35px; margin-top: 7px;}
 .search:hover{cursor: pointer;}
@@ -47,7 +47,7 @@
 
 .content{ display: flex; flex-direction: row; flex-wrap: wrap;}
 
-.whaleparagraph{ margin-left: 190px; margin-top: -80px;  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  font-size: x-large; color:#f2f7f5; display: block;}
+.whaleparagraph{ margin-left: 210px; margin-top: -80px;  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  font-size: x-large; color:#f2f7f5; display: block;}
 .whaleparagraph:hover{ color: #faae2b;transform: scale(1.01);}
 
 .forestparagraph{ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: x-large; color: #f2f7f5; margin-left: 90px;  margin-top: -105px;display: block; }
@@ -55,13 +55,13 @@
 
 .blogs{ display: flex; flex-direction: row; flex-wrap: wrap; width: fit-content; }
 
-.blogimg{ width: 450px; display: block; margin-left: 160px; height: 280px; }
+.blogimg{ width: 450px; display: block; margin-left: 180px; height: 280px; }
 .blogimg:hover{transform: scale(1.03);}
 
-.blogheadparent{ display: flex; flex-wrap: wrap; flex-direction: row; width: fit-content; margin-left: 645px; margin-top: -280px;}
+.blogheadparent{ display: flex; flex-wrap: wrap; flex-direction: row; width: fit-content; margin-left: 665px; margin-top: -280px;}
 .bloghead{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: x-large; color:#00473e;}
 
-.bloginfoparent{ display: flex; flex-wrap: wrap; flex-direction: column; height: 200px; width: 411px; text-align: justify; margin-left: 650px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: medium; margin-top: 6px;}
+.bloginfoparent{ display: flex; flex-wrap: wrap; flex-direction: column; height: 200px; width: 411px; text-align: justify; margin-left: 665px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: medium; margin-top: 6px;}
 
 .bloginfo{color: #475d5b; }
 
@@ -89,7 +89,7 @@
 
 .climatechange:hover{ border:#00332c 2px solid; }
 
-.commentparent{display: flex; flex-wrap: wrap; flex-direction: column; width: 440px; margin-left: 33px; height: 226px;}
+.commentparent{display: flex; flex-wrap: wrap; flex-direction: column; width: 440px; margin-left: 39px; height: 226px;}
 .title{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: x-large; color: black;}
 .commentbox{ padding-bottom: 93.5px; margin-top: 5px; color: #00332c; margin-top: 11px; border: solid 1px grey; padding-left: 10px; padding-top: 10px;}
 .commentbtn{padding-bottom: 15px; border: solid 1px grey; padding-top: 15px; margin-top: 20px; width: 110px; text-align: center;}
@@ -98,16 +98,17 @@
 .verticalline{display: flex; flex-direction: column; flex-wrap: wrap;  margin-top: -220px;}
 .length{height: 203px;}
 
-.emailparent{display: flex; flex-wrap: wrap; flex-direction: column; width: 440px; margin-left: 744px; height: 226px; margin-top: -226.5px;}
+.emailparent{display: flex; flex-wrap: wrap; flex-direction: column; width: 440px; margin-left: 771px; height: 226px; margin-top: -226.5px;}
 .emailtitle{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: x-large; color:black;}
 .emailpara{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; color: rgb(40, 37, 37);}
 .mailbox{padding-bottom: 15px; border: solid 1px grey; padding-top: 15px; padding-left: 10px; font-size: large; color: grey; margin-top: 10px;}
 .subscribebtn{padding-bottom: 15px; border: solid 1px grey; padding-top: 15px; margin-top: 20px; width: 110px; text-align: center;}
 .subscribebtn:hover{background-color: #faae2b; cursor: pointer;}
 
-.masterparent{margin-top: -80px;}
-.master{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: xx-large; color: #f2f7f5; padding-left: 40px;}
+.masterparent{margin-top: -80px; margin-left: 100px;}
+.master{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: xx-large; color: #f2f7f5; padding-left: 80px;}
 .master:hover{ color: #00332c;} 
+.video{width: 1256.5px;}
 
 .followparent{background-color: #00473e; display: flex; flex-direction: row; flex-wrap: wrap; }
 .follow{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  color: #f2f7f5; padding-left: 550px; padding-top: 10px; padding-bottom: 10px;}
