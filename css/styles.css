@@ -58,3 +58,28 @@ header .search-bar img {
     align-items: center;
     cursor: pointer;
 }
+#search-input {
+    padding: 5px;
+    font-size: 16px;
+    width: 0;
+    opacity: 0;
+    transition: width 0.3s ease, opacity 0.3s ease;
+}
+
+#search-input.active {
+    width: 200px; 
+    opacity: 1;
+    padding: 5px 10px;
+}
+
+#search-button {
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#search-button:hover {
+    background-color: #45a049;
+}
