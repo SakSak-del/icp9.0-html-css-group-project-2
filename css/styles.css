@@ -146,3 +146,55 @@ section h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+.issues-list, .news-list, .stories-list {
+    display: flex;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+.issue-item, .news-item, .story-item {
+    color:#fffffe;
+    background:#00473e;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 10px;
+    flex: 1 1 calc(25% - 40px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.3s, background 0.3s;
+}
+
+.issue-item:hover, .news-item:hover, .story-item:hover {
+    background:#fffffe;
+    color:#00473e;
+    transform: translateY(-10px);
+    cursor: pointer;
+}
+
+.product-card1 {
+            color:#fffffe;
+            background-color: ;#00473e
+            width: 300px;
+            padding: 30px;
+            border-radius: 10px;
+            border: 4px double black;
+            margin: 10px;
+            flex: 1 1 calc(25% - 40px);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s, background 0.3s;
+            }
+.product-card1{
+    background:#fffffe;
+    color:#00473e;
+    transform: translateY(-10px);
+    cursor: pointer;}
+    
+.product-img{
+            width: 200px;
+            height:100px;
+            display: block;
+            margin: 10px auto;
+            border-radius:10%;
+}
