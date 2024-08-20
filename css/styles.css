@@ -133,3 +133,16 @@ header nav a button {
 .hero .btn:hover {
     background: ;
 }
+
+section {
+    padding: 40px 0;
+}
+
+section h2 {
+    color: #00473e;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
