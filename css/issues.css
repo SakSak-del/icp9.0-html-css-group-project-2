@@ -1,0 +1,32 @@
+.heading{
+          
+    color: #00473e;
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+    padding: 5px 20px;
+
+}
+.sub-heading{
+    
+    color: #00473e;
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 5px 20px;
+}
+.paragraph{
+    background-color:#f2f7f5 ;
+    color: #475d5b;
+    text-align: center;
+    font-family: cursive;
+    padding: 5px 20px;
+}
+.sub-paragraph{
+    background-color:#f2f7f5 ;
+    color: #475d5b;
+}
+.img{
+    height: 300px;
+    width:250;
+}
