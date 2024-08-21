@@ -9,7 +9,7 @@ body {
 header {
     background: #f2f7f5; 
     color: #00473e; 
-    padding: 10px 20px;
+    padding: 20px 40px;
     border-bottom: #A6B1E1 3px solid; 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
@@ -18,11 +18,19 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-header .logo img {
-    height: 100px;
-    width: 200px;
-    margin-right: 20px;
-}
+.headerparent{ display: flex; flex-wrap: wrap; flex-direction: row; }
+.logo{width: 130px; margin-left: 20px;}
+
+
+
+.search{height: 25px;margin-left: -35px; margin-top: 7px;}
+.search:hover{cursor: pointer;}
+
+.searchbar:hover{cursor: pointer; background-color: #faae2b;}
+
+
+.searchbar{ margin-left: 290px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  font-size: medium ; border: solid 1px grey;  width: 170px; height: 35px; padding-left: 10px;}
+.hr{height: 25px;}
 header nav {
     display: flex;
     gap: ;
@@ -57,13 +65,14 @@ header .search-bar img {
     display: flex;
     align-items: center;
     cursor: pointer;
+    padding: 10px 10px;
 }
-#search-input {
-    padding: 5px;
+.src {
+    padding: 10px 10px;
     font-size: 16px;
-    width: 0;
-    opacity: 0;
-    transition: width 0.3s ease, opacity 0.3s ease;
+    width: 200px;
+    height:10px;
+    
 }
 
 #search-input.active {
@@ -172,6 +181,13 @@ section h2 {
     cursor: pointer;
 }
 
+.anc{
+    text-decoration:none;
+}
+.span{
+    color:#fffffe;
+}
+
 .product-card1 {
             color:#fffffe;
             background-color: ;#00473e
@@ -253,4 +269,15 @@ footer .quick-links a {
 
 footer .quick-links a:hover {
     color: #d8779a ;
+    transform: scale(1.2);
 }
+
+.social{
+     height:40px;
+     width:40px;
+    
+}
+.social:hover{
+    transform: scale(1.2);
+}
+

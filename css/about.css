@@ -195,3 +195,12 @@ footer .quick-links a {
 footer .quick-links a:hover {
     color: #d8779a ;
 }
+.social{
+     height:40px;
+     width:40px;
+    
+}
+.social:hover{
+    transform: scale(1.2);
+}
+
